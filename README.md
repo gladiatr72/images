@@ -2,8 +2,8 @@
 
 # PDF rendering
 
-![PDF rendering](/blob/master/sample-from-pdf.png)
+![PDF rendering](/sample-from-pdf.png)
 
 # EPUB rendering
 
-![EPUB rendering](/blob/master/sample-from-epub.png)
+![EPUB rendering](/sample-from-epub.png)
