@@ -2,9 +2,8 @@
 
 # PDF rendering
 
-![PDF rendering](/gladiatr72/images/raw/master/sample-from-pdf.png)
-
+![PDF rendering](/gladiatr72/images/blob/master/gladiatr72/images/raw/master/sample-from-pdf.png)
 
 # EPUB rendering
 
-![EPUB rendering](/gladiatr72/images/raw/master/sample-from-epub.png)
+![PDF rendering](/gladiatr72/images/blob/master/gladiatr72/images/raw/master/sample-from-epub.png)
